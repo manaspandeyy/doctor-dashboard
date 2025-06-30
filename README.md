@@ -21,3 +21,18 @@ Component logic was split into:
 AppointmentCard: handles appointment UI and action buttons.
 RescheduleModal: handles reschedule popup.
 TodayTimeline: renders today’s appointments in chronological order.
+
+## 🔑 Key Features
+
+ # Filter appointments by status 🔍
+Easily filter between **confirmed**, **pending**, and **completed** statuses.
+ # Mark appointments as completed** ✅  
+Update appointment status with a single click.
+ # Reschedule with date-time picker** 🕓  
+Change appointment time via a user-friendly `datetime-local` input.
+ # Today’s timeline view** 📅
+See a vertical chronological list of today’s appointments.
+ # Loading spinner and empty state messaging** ⏳
+Simulates data fetching and handles no-appointment cases gracefully.
+ # Modular file structure with reusable components** 🧱
+Structured using atomic components like `AppointmentCard`, `TodayTimeline`, and `RescheduleModal`.
