@@ -24,7 +24,7 @@ TodayTimeline: renders today’s appointments in chronological order.
 
 ## 🔑 Key Features
 
- # Filter appointments by status 🔍
+ # Filter appointments by status** 🔍
 Easily filter between **confirmed**, **pending**, and **completed** statuses.
  # Mark appointments as completed** ✅  
 Update appointment status with a single click.
